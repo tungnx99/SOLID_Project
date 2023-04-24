@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SOLID_Project
+namespace OCP
 {
     internal class Program
     {
